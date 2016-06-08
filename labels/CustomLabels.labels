@@ -14,4 +14,18 @@
         <shortDescription>custlabelB</shortDescription>
         <value>custlabelB</value>
     </labels>
+    <labels>
+        <fullName>custlb1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>custlb1</shortDescription>
+        <value>custlb1</value>
+    </labels>
+    <labels>
+        <fullName>custlb2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>custlb2</shortDescription>
+        <value>custlb2</value>
+    </labels>
 </CustomLabels>

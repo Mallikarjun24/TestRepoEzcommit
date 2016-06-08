@@ -56,9 +56,9 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
-        <fullName>custobjABfld2__c</fullName>
+        <fullName>custobjafld2__c</fullName>
         <externalId>false</externalId>
-        <label>custobjABfld2</label>
+        <label>custobjafld2</label>
         <length>19</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
@@ -66,21 +66,21 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>custobjABfld__c</fullName>
+        <fullName>custobjafld__c</fullName>
         <externalId>false</externalId>
-        <label>custobjABfld</label>
+        <label>custobjafld</label>
         <length>19</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
         <unique>false</unique>
     </fields>
-    <label>custobjAB</label>
+    <label>custobja</label>
     <nameField>
-        <label>custobjAB Name</label>
+        <label>custobja Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>custobjABs</pluralLabel>
+    <pluralLabel>custobjas</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>

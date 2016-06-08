@@ -2,8 +2,15 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>36.0</version>
     <types>
+        <members>ApexTest1</members>
+        <members>OlderAccountsUtility</members>
+        <members>Sample</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>custobjAB__c.custobjABfld2__c</members>
         <members>custobjAB__c.custobjABfld__c</members>
+        <members>custobja__c.custobjafld2__c</members>
         <members>custobjobj__c.custobjobjfld2__c</members>
         <members>custobjobj__c.custobjobjfld__c</members>
         <name>CustomField</name>
@@ -11,6 +18,13 @@
     <types>
         <members>custlabelA</members>
         <members>custlabelB</members>
+        <members>custlb1</members>
+        <members>custlb2</members>
         <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>custobjAB__c</members>
+        <members>custobja__c</members>
+        <name>CustomObject</name>
     </types>
 </Package>
