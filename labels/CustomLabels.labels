@@ -56,4 +56,19 @@
         <shortDescription>custlbl6</shortDescription>
         <value>custlbl6</value>
     </labels>
+    <labels>
+        <fullName>label7</fullName>
+        <categories>label7</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>label7</shortDescription>
+        <value>label7</value>
+    </labels>
+    <labels>
+        <fullName>label8</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>label8</shortDescription>
+        <value>label8</value>
+    </labels>
 </CustomLabels>

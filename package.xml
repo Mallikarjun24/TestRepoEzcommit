@@ -13,6 +13,7 @@
         <members>custobja__c.custobjafld2__c</members>
         <members>custobjobj__c.custobjobjfld2__c</members>
         <members>custobjobj__c.custobjobjfld__c</members>
+        <members>testlabel__c.phone__c</members>
         <members>testlabel__c.testlabelDesc__c</members>
         <members>testlabeltest__c.testName__c</members>
         <members>testlabeltest__c.testlabeldesc__c</members>
@@ -27,12 +28,16 @@
         <members>custlbl4</members>
         <members>custlbl5</members>
         <members>custlbl6</members>
+        <members>label7</members>
+        <members>label8</members>
         <name>CustomLabel</name>
     </types>
     <types>
         <members>Demo__c</members>
         <members>custobjAB__c</members>
         <members>custobja__c</members>
+        <members>testlabel__c</members>
+        <members>testlabeltest__c</members>
         <name>CustomObject</name>
     </types>
 </Package>
