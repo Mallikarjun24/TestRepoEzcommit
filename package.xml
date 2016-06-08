@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>36.0</version>
+    <types>
+        <members>custobjAB__c.custobjABfld2__c</members>
+        <members>custobjAB__c.custobjABfld__c</members>
+        <members>custobjobj__c.custobjobjfld2__c</members>
+        <members>custobjobj__c.custobjobjfld__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>custlabelA</members>
+        <members>custlabelB</members>
+        <name>CustomLabel</name>
+    </types>
+</Package>
