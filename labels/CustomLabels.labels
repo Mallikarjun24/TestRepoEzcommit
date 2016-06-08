@@ -28,4 +28,32 @@
         <shortDescription>custlb2</shortDescription>
         <value>custlb2</value>
     </labels>
+    <labels>
+        <fullName>custlbl3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>custlbl3</shortDescription>
+        <value>custlbl3</value>
+    </labels>
+    <labels>
+        <fullName>custlbl4</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>custlbl4</shortDescription>
+        <value>custlbl4</value>
+    </labels>
+    <labels>
+        <fullName>custlbl5</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>custlbl5</shortDescription>
+        <value>custlbl5</value>
+    </labels>
+    <labels>
+        <fullName>custlbl6</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>custlbl6</shortDescription>
+        <value>custlbl6</value>
+    </labels>
 </CustomLabels>

@@ -20,9 +20,14 @@
         <members>custlabelB</members>
         <members>custlb1</members>
         <members>custlb2</members>
+        <members>custlbl3</members>
+        <members>custlbl4</members>
+        <members>custlbl5</members>
+        <members>custlbl6</members>
         <name>CustomLabel</name>
     </types>
     <types>
+        <members>Demo__c</members>
         <members>custobjAB__c</members>
         <members>custobja__c</members>
         <name>CustomObject</name>
