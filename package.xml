@@ -13,6 +13,9 @@
         <members>custobja__c.custobjafld2__c</members>
         <members>custobjobj__c.custobjobjfld2__c</members>
         <members>custobjobj__c.custobjobjfld__c</members>
+        <members>testlabel__c.testlabelDesc__c</members>
+        <members>testlabeltest__c.testName__c</members>
+        <members>testlabeltest__c.testlabeldesc__c</members>
         <name>CustomField</name>
     </types>
     <types>
