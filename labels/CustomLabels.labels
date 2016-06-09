@@ -71,4 +71,18 @@
         <shortDescription>label8</shortDescription>
         <value>label8</value>
     </labels>
+    <labels>
+        <fullName>cokelab</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>cokelab</shortDescription>
+        <value>cokelab</value>
+    </labels>
+    <labels>
+        <fullName>cokelab1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>cokelab1</shortDescription>
+        <value>cokelab1</value>
+    </labels>
 </CustomLabels>

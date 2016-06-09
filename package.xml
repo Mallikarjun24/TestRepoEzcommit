@@ -8,6 +8,9 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Trail__c.Last_Inspection_Date__c</members>
+        <members>cokeobj__c.cokefld2__c</members>
+        <members>cokeobj__c.cokefld__c</members>
         <members>custobjAB__c.custobjABfld2__c</members>
         <members>custobjAB__c.custobjABfld__c</members>
         <members>custobja__c.custobjafld2__c</members>
@@ -20,6 +23,8 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>cokelab</members>
+        <members>cokelab1</members>
         <members>custlabelA</members>
         <members>custlabelB</members>
         <members>custlb1</members>
@@ -34,10 +39,17 @@
     </types>
     <types>
         <members>Demo__c</members>
+        <members>cokeobj__c</members>
         <members>custobjAB__c</members>
         <members>custobja__c</members>
         <members>testlabel__c</members>
         <members>testlabeltest__c</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Identity User</members>
+        <members>MarketingProfile</members>
+        <members>Partner App Subscription User</members>
+        <name>Profile</name>
     </types>
 </Package>
